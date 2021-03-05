@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/3/5 11:00:48。
+     1>项目“C:\Users\86173\documents\visual studio 2015\Projects\模板_3_4\模板_3_4\模板_3_4.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>已完成生成项目“C:\Users\86173\documents\visual studio 2015\Projects\模板_3_4\模板_3_4\模板_3_4.vcxproj”(ClCompile 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.94
